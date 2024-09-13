@@ -13,7 +13,8 @@ W, A, S, D to move.
 
 Usage guide:
 ------------
+Download the .zip and extract the files.  
 Download Godot (v4.2.2.stable.official [15073afe3] was used for this project).  
 Open the Godot project manager.  
-Click "Import" and select the "Speedy_Saucer" folder where this project is saved on your machine.  
-You can then open the project in the project manager.
+Click "Import" and select the folder where you extracted the files to.  
+Open the project in the project manager.
